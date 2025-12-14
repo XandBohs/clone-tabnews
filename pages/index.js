@@ -1,6 +1,6 @@
 function Home() {
     return <div>
-        Mudança ao vivo para meu amor
+        <h1>Mudança ao vivo para meu amor</h1>
     </div>
 }
 
