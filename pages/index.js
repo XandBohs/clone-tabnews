@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1 color="blue">
+      <h1>
         Prazer, me chamo Alexandre e estou aprofundando meus conhecimentos em
         desenvolvimento web.
       </h1>
